@@ -1,8 +1,13 @@
-# CSS Shapes
+# CSS Shapes
 
 Demo files for [this talk](http://slides.com/siegfriedehret/css-shapes).
 
-# Licence
+# Run
+
+You need to serve the files through a server for the shape-outside: url(...) example.
+The image is from [90sigma](http://90sigma.deviantart.com/art/Vector-All-the-Ponies-SVG-Files-302442314).
+
+# Licence
 
 ```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
